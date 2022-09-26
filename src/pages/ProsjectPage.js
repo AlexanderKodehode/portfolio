@@ -1,10 +1,14 @@
 import React from 'react';
+import NavBar from '../components/NavBar';
 import Conteiner1 from '../components/Cards/Prosject1Card';
 
 
 const ProsjectPage = () =>{
     return (
-        <Conteiner1/>
+        <>
+            <NavBar/>
+            <Conteiner1/>
+        </>
     );
 };
 

@@ -1,8 +1,12 @@
 import React from "react";
+import NavBar from "../components/NavBar";
 
 const AboutMePage = () => {
     return (
-        <p>Here is some info about me</p>
+        <>
+            <NavBar/>
+            <p>Here is some info about me</p>
+        </>
     );
 };
 
