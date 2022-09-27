@@ -1,18 +1,19 @@
 import React from "react"
 import Flexbox from 'flexbox-react';
+import styles from '../styles/my-style.module.css';
 
-const Conteiner2 = () => {
+const Prosject2 = () => {
     return(
-        <Flexbox flexDirection="column" minHeight="100vh">
-            <h2>Prosject 1</h2>
-            <h3>Placeholder</h3>
+        <Flexbox className={styles.prosject} flexDirection="column">
+            <h2>Prosject 2</h2>
+            <img src="" alt="Profilpitcher"></img>
             <p>Placeholder text blablablablabla</p>
             <Flexbox flexDirection="row">
-                <a href="https://www.w3schools.com" target="_blank">Live demo</a>
-                <a href="https://www.w3schools.com" target="_blank">Github code</a>
+                <a className={styles.demolink} href="https://www.w3schools.com" target="_blank">Live demo</a>
+                <a className={styles.gitlink} href="https://www.w3schools.com" target="_blank">Github code</a>
             </Flexbox>
         </Flexbox>
     );
 };
 
-export default Conteiner2
+export default Prosject2

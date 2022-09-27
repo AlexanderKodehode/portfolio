@@ -1,0 +1,54 @@
+.overskrift {
+
+}
+
+.img {
+    border: solid;
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+
+.info {
+    border: solid;
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+
+.prosject {
+    border-style: solid;
+    margin: 3px;
+    padding: 5px;
+    width: auto;
+    height: 200px;
+    max-width: 33%;
+}
+
+.titel {
+    text-align: center;
+    justify-content: center;
+}
+
+.description {
+    text-align: center;
+    justify-content: center;
+}
+
+.demolink {
+    margin: 5px;
+    padding: 5px;
+}
+
+.gitlink {
+    margin: 5px;
+    padding: 5px;
+}
+
+.text {
+    width: 50%;
+    margin: auto;
+    size: 18px;
+}
