@@ -19,11 +19,11 @@
 }
 
 .prosject {
+    background-color: #FFFFFF;
     border-style: solid;
     margin: 3px;
     padding: 5px;
     width: auto;
-    height: 200px;
     max-width: 33%;
 }
 
