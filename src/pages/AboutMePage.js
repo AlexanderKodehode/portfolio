@@ -4,7 +4,7 @@ import styles from '../../src/components/styles/my-style.module.css'
 const AboutMePage = () => {
     return (
         <>
-            <p className={styles.text}>Jeg heter Alexander og er 22 år, og for øyeblikket deltar jeg på kodehode IT AMO kurs. Her driver jeg å bygge opp kompetanse rundt html, css, javascript og python.Jeg ser mine sterkeste side som en person som er lærelysten, sosial og kunnskapssøkende.</p>
+            <p className={styles.text}>Jeg heter Alexander og er 23 år, og for øyeblikket deltar jeg på kodehode IT AMO kurs. Her driver jeg å bygge opp kompetanse rundt html, css, javascript og python.Jeg ser mine sterkeste side som en person som er lærelysten, sosial og kunnskapssøkende.</p>
             <br/>
             <p className={styles.text}>I løpet av min tid hos kodehode har jeg lært mye innen frontend-utvikling. Dette har jeg brukt til å designe og kode egne sider, å løse generelle kode utfordringer.</p>
             <br/>
