@@ -1,15 +1,17 @@
 {
-  "main.css": "/portfolio/static/css/main.6b9658f5.chunk.css",
-  "main.js": "/portfolio/static/js/main.1e2ebfec.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.1e2ebfec.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.cd79d7bc.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.cd79d7bc.js.map",
-  "static/js/2.c020c1bf.chunk.js": "/portfolio/static/js/2.c020c1bf.chunk.js",
-  "static/js/2.c020c1bf.chunk.js.map": "/portfolio/static/js/2.c020c1bf.chunk.js.map",
-  "static/js/3.9f01db21.chunk.js": "/portfolio/static/js/3.9f01db21.chunk.js",
-  "static/js/3.9f01db21.chunk.js.map": "/portfolio/static/js/3.9f01db21.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.2d9f8412.chunk.css",
+  "main.js": "/portfolio/static/js/main.042408f1.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.042408f1.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.c4c92ff8.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.c4c92ff8.js.map",
+  "static/js/2.12777b44.chunk.js": "/portfolio/static/js/2.12777b44.chunk.js",
+  "static/js/2.12777b44.chunk.js.map": "/portfolio/static/js/2.12777b44.chunk.js.map",
+  "static/js/3.c7b6313b.chunk.js": "/portfolio/static/js/3.c7b6313b.chunk.js",
+  "static/js/3.c7b6313b.chunk.js.map": "/portfolio/static/js/3.c7b6313b.chunk.js.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.e9c6f19ac3e8b90150214911647e727d.js": "/portfolio/precache-manifest.e9c6f19ac3e8b90150214911647e727d.js",
+  "precache-manifest.d1292273454026b8c6278a7d477b2311.js": "/portfolio/precache-manifest.d1292273454026b8c6278a7d477b2311.js",
   "service-worker.js": "/portfolio/service-worker.js",
-  "static/css/main.6b9658f5.chunk.css.map": "/portfolio/static/css/main.6b9658f5.chunk.css.map"
+  "static/css/main.2d9f8412.chunk.css.map": "/portfolio/static/css/main.2d9f8412.chunk.css.map",
+  "static/media/Drumkit.JPG": "/portfolio/static/media/Drumkit.4ad45c01.JPG",
+  "static/media/Profil.jpg": "/portfolio/static/media/Profil.0d49f697.jpg"
 }
