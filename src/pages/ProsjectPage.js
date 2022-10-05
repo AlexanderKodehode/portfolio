@@ -1,17 +1,14 @@
 import React from 'react';
-import Prosject1 from '../components/Cards/Prosject1Card'
-import Prosject2 from '../components/Cards/Prosject2Card';
-import Prosject3 from '../components/Cards/Prosject3Card';
 import Flexbox from 'flexbox-react';
+import ProsjectCard from '../components/Cards/ProsjectCard';
+import style from '../components/styles/my-style.module.css';
 
 
 
 const ProsjectPage = () =>{
     return (
-        <Flexbox flexDirection="Row">
-            <Prosject1/>
-            <Prosject2/>
-            <Prosject3/>
+        <Flexbox className={style.body} flexDirection="Row">
+            <ProsjectCard/>
         </Flexbox>
     );
 };

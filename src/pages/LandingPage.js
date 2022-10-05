@@ -1,6 +1,5 @@
 import React from 'react';
 import Flexbox from 'flexbox-react';
-import IntroCard from '../components/Cards/IntroductionCard';
 import style from '../components/styles/my-style.module.css';
 
 
@@ -8,10 +7,14 @@ const LandingPage = () => {
     return(
         <Flexbox flexDirection="row">
             <>
-                <img className={style.img} src="" alt="Profilpitcher"></img>
+                <img className={style.img} src={require('./img/Profil.jpg')} width="500" height="600" />
+
             </>
             <>
-                <IntroCard />
+                <Flexbox className={style.info} flexDirection="column">
+                    <h1>Alexander Follaug</h1>
+                    <h2>Frontend-develepor</h2>
+                </Flexbox>
             </>
         </Flexbox>
     )
