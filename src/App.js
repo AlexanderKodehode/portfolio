@@ -1,10 +1,9 @@
 import React from 'react';
 import {NavLink, Routes, Route } from 'react-router-dom';
-import './App.css';
-import LandingPage from "./pages/LandingPage";
-import ProsjectPage from './pages/ProsjectPage';
-import AboutMePage from './pages/AboutMePage';
-
+import "./assets/Global.css";
+import LandingPage from './pages/LandingPage';
+import ProsjectPage from './pages/LandingPage/ProsjectPage';
+import AboutMePage from './pages/LandingPage/AboutMePage';
 
 function App() {
   return (
