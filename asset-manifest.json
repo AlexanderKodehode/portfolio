@@ -1,17 +1,15 @@
 {
-  "main.css": "/portfolio/static/css/main.2d9f8412.chunk.css",
-  "main.js": "/portfolio/static/js/main.042408f1.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.042408f1.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.c4c92ff8.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.c4c92ff8.js.map",
-  "static/js/2.12777b44.chunk.js": "/portfolio/static/js/2.12777b44.chunk.js",
-  "static/js/2.12777b44.chunk.js.map": "/portfolio/static/js/2.12777b44.chunk.js.map",
-  "static/js/3.c7b6313b.chunk.js": "/portfolio/static/js/3.c7b6313b.chunk.js",
-  "static/js/3.c7b6313b.chunk.js.map": "/portfolio/static/js/3.c7b6313b.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.b732badf.chunk.css",
+  "main.js": "/portfolio/static/js/main.e40827dc.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.e40827dc.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.99a936db.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.99a936db.js.map",
+  "static/js/2.9ecdeae4.chunk.js": "/portfolio/static/js/2.9ecdeae4.chunk.js",
+  "static/js/2.9ecdeae4.chunk.js.map": "/portfolio/static/js/2.9ecdeae4.chunk.js.map",
+  "static/js/3.053b0c51.chunk.js": "/portfolio/static/js/3.053b0c51.chunk.js",
+  "static/js/3.053b0c51.chunk.js.map": "/portfolio/static/js/3.053b0c51.chunk.js.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.d1292273454026b8c6278a7d477b2311.js": "/portfolio/precache-manifest.d1292273454026b8c6278a7d477b2311.js",
+  "precache-manifest.97b2ecbc7f7433f360704f6ab1cc18ff.js": "/portfolio/precache-manifest.97b2ecbc7f7433f360704f6ab1cc18ff.js",
   "service-worker.js": "/portfolio/service-worker.js",
-  "static/css/main.2d9f8412.chunk.css.map": "/portfolio/static/css/main.2d9f8412.chunk.css.map",
-  "static/media/Drumkit.JPG": "/portfolio/static/media/Drumkit.4ad45c01.JPG",
-  "static/media/Profil.jpg": "/portfolio/static/media/Profil.0d49f697.jpg"
+  "static/css/main.b732badf.chunk.css.map": "/portfolio/static/css/main.b732badf.chunk.css.map"
 }
