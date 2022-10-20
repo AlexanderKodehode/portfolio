@@ -1,21 +1,8 @@
-import React from 'react';
-
+import React from "react";
+import Navbar from "./compnents/Navbar";
 
 const LandingPage = () => {
-    return(
-        <section>
-            <>
-                {/* <img className={style.img} src={require('./img/Profil.jpg')} width="500" height="600" /> */}
-
-            </>
-            <>
-                <container>
-                    <h1>Alexander Follaug</h1>
-                    <h2>Frontend-develepor</h2>
-                </container>
-            </>
-        </section>
-    )
+	return <Navbar />;
 };
 
-export default LandingPage
+export default LandingPage;

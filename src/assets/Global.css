@@ -15,10 +15,12 @@
 
 :root {
 	/*Miscellaneous*/
-	--color-bg: linear-gradient( #07FFF0, #56CFE1);
-	--color-primary: ;
-	--color-primary-variant: ;
+	--color-bg: linear-gradient( #2E5077, #686782, #2E5077);
+	--color-primary: (#BFD7EA);
+	--color-white: #fff;
 	--color-btn: #07FFF0;
+
+	--transition: all 400ms ease;
 
 	--container-width-small: 50%;
 }
