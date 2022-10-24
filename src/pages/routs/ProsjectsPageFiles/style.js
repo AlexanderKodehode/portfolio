@@ -2,12 +2,11 @@ import styled from "styled-components";
 
 export const container = styled.div`
 	display: flex;
-	flex-direction: row;
-    height: 100vh;
-    width: var(--container-witdh-small);
+    height: 90vh;
+    width: 100vw;
 `
 export const Card = styled.div`
-    background-color: var(--color-bg);
+    background-color: var(--color-primary);
     height: 300px;
     width: 225px;
     margin: 5px;
@@ -19,7 +18,7 @@ export const Prosject = styled.div`
     width: 200px;
 `
 export const Link = styled.div`
-    /* display: flex; */
+    display: flex;
     height: 50px;
     width: 225px;
 `

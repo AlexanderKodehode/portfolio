@@ -13,7 +13,7 @@ export const Nav_Content = styled.div`
 	height: 5rem;
 	display: flex;
 	gap: 1rem;
-	width: var(--container-width);
+	width: 100vw;
 	justify-content: space-between;
 	align-items: center;
 	border-bottom: 1px solid var(--color-white);
