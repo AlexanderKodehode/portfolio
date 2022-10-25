@@ -27,8 +27,8 @@ const ProsjectCard = () => {
 
             <style.Card>
                 <style.Prosject>
-                    <style.ProsjectTitel>{prosject1.name}</style.ProsjectTitel>
-                    <style.ProsjectImg src={'../../../assets/img/Drumkit.JPG'}/>
+                    <style.Prosject_Titel>{prosject1.name}</style.Prosject_Titel>
+                    <style.Prosject_Img src={require('../../../assets/img/drumkit.jpg')} />
                 </style.Prosject>
                 <style.Link>
                     <style.DemoLink>
@@ -48,10 +48,8 @@ const ProsjectCard = () => {
 
             <style.Card>
                 <style.Prosject >                        
-                    <style.ProsjectTitel>{prosject2.name}</style.ProsjectTitel>
-                <style.ProsjectImg>
-                        {/* src={require('../../pages/img/Drumkit.JPG')} */}
-                    </style.ProsjectImg>
+                    <style.Prosject_Titel>{prosject2.name}</style.Prosject_Titel>
+                    <style.Prosject_Img src={require('../../../assets/img/todo.jpg')} />
                 </style.Prosject>
                 <style.Link>
                     <style.DemoLink>

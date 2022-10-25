@@ -26,7 +26,15 @@
 
 	--transition: all 400ms ease;
 
-	--container-width-small: 50%;
+	--container-width-small: 40%;
+	--container-width-middels: 60%;
+	--comtainer-width-big: 95%;
+
+	--image-width-small: 370px;
+	/* --image-width-big: 50%; */
+
+	--image-height-small: 370px;
+	/* --image-height-big: 50%; */
 }
 
 body {
@@ -35,7 +43,7 @@ body {
 
 section {
 	/*Box model stuff*/
-	min-height: 100vh;
+	min-height: 97vh;
 }
 
 h1,
