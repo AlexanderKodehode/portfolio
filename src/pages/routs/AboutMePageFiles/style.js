@@ -19,15 +19,15 @@ export const Right_Container = styled.div`
     text-align: right;
 `
 export const Text = styled.div`
-
+    font-size: 30px;
 `
 export const Contact = styled.div`
 
 `
 export const Contact_Titel = styled.h1`
-
+    font-size: 30px;
 `
-export const Mail = styled.div`
+export const Mail_Container = styled.div`
 
 `
 export const Contact_Links = styled.a`

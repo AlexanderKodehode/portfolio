@@ -15,13 +15,11 @@ const AboutMePage = () => {
             </style.Left_Container>
             <style.Right_Container>
                 <style.Contact>
-                    <style.Contact_Titel>
-                        <h1>Contact info</h1>
-                    </style.Contact_Titel>
-                    <style.Mail>
+                    <style.Contact_Titel>Contact info</style.Contact_Titel>
+                    <style.Mail_Container>
                         <h2>Mail</h2>
                         <h3>.....@gmail.com</h3>
-                    </style.Mail>
+                    </style.Mail_Container>
                     <style.Contact_Links>
                         <a href="">Linkedin</a>
                         <a href="">Github</a>
