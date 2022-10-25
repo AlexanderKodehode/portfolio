@@ -1,19 +1,22 @@
 import React from 'react';
+import * as style from "./HomePageFiles/style";
 
 
 const Homepage = () => {
     return(
         <section>
-            <>
-                {/* <img className={style.img} src={require('./img/Profil.jpg')} width="500" height="600" /> */}
+            <style.Container>
+                <>
+                    <style.img src={require('../../assets/img/Profil.jpg')} />
 
-            </>
-            <>
-                <container>
-                    <h1>Alexander Follaug</h1>
-                    <h2>Frontend-develepor</h2>
-                </container>
-            </>
+                </>
+                <>
+                    <style.Text_Container>
+                        <style.Title>Alexander Follaug</style.Title>
+                        <style.Skill>Frontend-develepor</style.Skill>
+                    </style.Text_Container>
+                </>
+            </style.Container>
         </section>
     )
 };

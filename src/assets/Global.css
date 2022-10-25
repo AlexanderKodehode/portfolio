@@ -17,8 +17,12 @@
 	/*Miscellaneous*/
 	--color-bg: linear-gradient( #2E5077, #686782, #2E5077);
 	--color-primary: (#BFD7EA);
+	--color-sec: ;
+
 	--color-white: #fff;
+
 	--color-btn: #07FFF0;
+	--color-txt: Black;
 
 	--transition: all 400ms ease;
 
